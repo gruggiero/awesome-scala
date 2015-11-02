@@ -208,6 +208,7 @@ Projects with over 500 stargazers are in bold.
 * [Scaldi ★ 182 ⧗ 1](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
 * [Sclasner ★ 7 ⧗ 245](https://github.com/xitrum-framework/sclasner) - Scala classpath scanner.
 * [SubCut ★ 381 ⧗ 3](https://github.com/dickwall/subcut) - Scala Uniquely Bound Classes Under Traits.
+* [MetaRest](https://github.com/pathikrit/metarest) - Scala macros to generate RESTful Models
 
 ## Distributed Systems
 
